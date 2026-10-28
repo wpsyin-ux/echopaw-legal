@@ -1,6 +1,6 @@
 # EchoPaw 隐私政策 / Privacy Policy
 
-**生效日期 / Effective Date:** 2026-10-27
+**生效日期 / Effective Date:** 2026-10-28
 
 ## 中文版本
 
@@ -32,8 +32,9 @@ EchoPaw 不包含广告、统计分析或跨应用追踪的第三方 SDK，也�
 应用“关于”页面中的“隐私政策”和“使用支持”链接会在系统浏览器中打开，这些网页由 GitHub Pages 托管。访问网页时，GitHub 可能会按其自身的隐私政策处理访问信息（例如 IP 地址）；这发生在 EchoPaw 之外。
 
 ### 7. 删除与保留
-- 应用内“设置 → 清空全部记录”会清空日记和健康记录，但会保留宠物资料、应用设置和已复制到应用目录的照片文件。
-- 删除单条日记不会自动清理它的本地照片副本。
+- 删除一条日记或皮肤观察记录，会同时删除 EchoPaw 保存在应用本地目录中的该记录的照片副本。
+- 应用内“设置 → 清空全部记录”会清空日记和健康记录，并删除应用本地目录中保存的所有照片副本，但会保留宠物资料和应用设置。
+- 以上删除操作不会删除你系统相册中的原始照片。
 - 如需移除应用保存的全部本地数据，可以卸载应用；卸载后日记等记录可能无法恢复。卸载应用不会删除你系统相册中的原始照片。
 
 ### 8. 联系方式
@@ -74,8 +75,9 @@ EchoPaw contains no advertising, analytics or cross-app tracking SDKs and does n
 The “Privacy Policy” and “Support” links on the app’s About page open in your system browser. Those pages are hosted on GitHub Pages. When you visit them, GitHub may process access information (such as your IP address) under its own privacy policy; this happens outside EchoPaw.
 
 ### 7. Deletion and Retention
-- “Settings → Clear All Records” clears diary and health records, but keeps your pet profile, app settings and photo files already copied into the app’s local directory.
-- Deleting an individual diary entry does not automatically remove its local photo copy.
+- Deleting a diary entry or a skin-observation record also deletes the photo copy EchoPaw saved in the app’s local directory for it.
+- “Settings → Clear All Records” clears diary and health records and deletes all photo copies saved in the app’s local directory, but keeps your pet profile and app settings.
+- These deletions never delete the original photos in your system photo library.
 - To remove all locally stored app data, you can uninstall the app; local records may not be recoverable after uninstalling. Uninstalling does not delete original photos in your system photo library.
 
 ### 8. Contact
